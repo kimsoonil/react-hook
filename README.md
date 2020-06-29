@@ -2,18 +2,21 @@
 
 Collection of sexy React Hooks ready to install with yarn
 
-- [ ] useTitle
-- [ ] useInput
-- [ ] usePageLeave
-- [ ] useClick
-- [ ] useFadeIn
-- [ ] useFullscreen
-- [ ] useHover
-- [ ] useNetwork
-- [ ] useNotification
-- [ ] useScroll
-- [ ] useTabs
-- [ ] usePreventLeave
-- [ ] useConfirm
-- [ ] useAxios
+- [x] useTitle
+- [x] useInput
+- [x] usePageLeave
+- [x] useClick
+- [x] useFadeIn
+- [x] useFullscreen
+- [x] useHover
+- [x] useNetwork
+- [x] useNotification
+- [x] useScroll
+- [x] useTabs
+- [x] usePreventLeave
+- [x] useConfirm
+- [x] useAxios
+
 # react-hook
+
+Nomad Coders
