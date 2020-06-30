@@ -1,8 +1,9 @@
 {
-  "name": "react-hook",
-  "version": "0.1.0",
+  "name": "@nooks/use-title",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@nooks/use-title": "^1.0.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -31,5 +32,25 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Collection of sexy React Hooks ready to install with yarn",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slskdkfdl/react-hook.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "hooks",
+    "title",
+    "hooks"
+  ],
+  "author": "kim sunil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slskdkfdl/react-hook/issues"
+  },
+  "homepage": "https://github.com/slskdkfdl/react-hook#readme"
 }

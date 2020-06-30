@@ -17,6 +17,11 @@ Collection of sexy React Hooks ready to install with yarn
 - [x] useConfirm
 - [x] useAxios
 
+* yarn / npm install
+
+* yarn start / npm run start
+
 # react-hook
 
 Nomad Coders
+realistically react hooks

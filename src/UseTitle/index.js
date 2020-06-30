@@ -1,5 +1,5 @@
 import React from "react";
-import useTitle from "./UseTitle";
+import useTitle from "@nooks/use-title";
 
 const UseTitleApp = () => {
   const titleUpdater = useTitle("Loading...");
