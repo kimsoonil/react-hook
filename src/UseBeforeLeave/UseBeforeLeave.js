@@ -2,7 +2,6 @@ import { useEffect } from "react";
 
 const isEmpty = (onBefore) => {
   if (!onBefore) return false;
-
   if (typeof onBefore !== "function") return false;
 
   return true;
@@ -17,9 +16,9 @@ const useBeforeLeave = (onBefore) => {
   };
 
   useEffect(() => {
-    document.addEventListener("mouseleave", handle);
+    isEmpty(onBefore) && document.addEventListener("mouseleave", handle);
     return () => document.removeEventListener("mouseleave", handle);
-  }, [handle]);
+  }, [handle, onBefore]);
 };
 
 export default useBeforeLeave;
